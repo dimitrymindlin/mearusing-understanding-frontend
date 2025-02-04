@@ -1,4 +1,4 @@
-# Frontend for paper: Measuring User Understanding in Dialogue based xAI Systems
+# Measuring Understanding Frontend
 
 The frontend contains the experiment flow from introducing the user, showing the agreement form and
 performing the three experiment phases. The experiment phases are shown below:
